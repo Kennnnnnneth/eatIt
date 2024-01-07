@@ -1,7 +1,7 @@
 
-export const yelp_client = 'wAyjUeND5b0vWIGhRPPjwQ'
-export const yelp_apiKey = 'RnrZkSalwn5Ma6yEoRr3Xyq2O-h_rgIyqE_fiuw2tT2eVczAbuLotPIz2KNjF3OFlmOUgLm8N0dEMf4GUOInsrVWmXX_Ro4CHT-Uvu20oleBip2lc9WN24U7R5lTZHYx'
-export const google_key = 'AIzaSyDnOxerQ7oSHG5KzDItrnV4795ekheXnCE'
+export const yelp_client = '***'
+export const yelp_apiKey = '***'
+export const google_key = '***'
 
 export const LATITUD_DELTA = 0.0922 / 12//default according to creater
 export const HEADER_HEIGHT = 80
