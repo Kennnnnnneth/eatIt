@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-eatit-staging-121643-authRole",
+      "UnauthRoleArn": "arn:aws:iam::405709449865:role/amplify-eatit-staging-121643-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::405709449865:role/amplify-eatit-staging-121643-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-eatit-staging-121643-deployment",
+      "UnauthRoleName": "amplify-eatit-staging-121643-unauthRole",
+      "StackName": "amplify-eatit-staging-121643",
+      "StackId": "arn:aws:cloudformation:us-east-1:405709449865:stack/amplify-eatit-staging-121643/fb4bb8c0-1288-11ee-89a4-1209b53fb815",
+      "AmplifyAppId": "dkrx35726wwjv"
+    },
+    "categories": {
+      "auth": {
+        "eatIt": {}
+      }
+    }
+  }
+}
